@@ -1,24 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@seemagc 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-6
-61.6klinuxacademy/cicd-pipeline-train-schedule-cd
- Code Issues 1 Pull requests 20 Projects 0 Wiki Security Insights
-cicd-pipeline-train-schedule-cd/Jenkinsfile
-@whboyd whboyd Implement CD pipeline
-d605ba9 on May 3, 2018
-74 lines (74 sloc)  3.25 KB
-  
 pipeline {
     agent any
     stages {
@@ -93,15 +72,3 @@ pipeline {
         }
     }
 }
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
